@@ -10,6 +10,7 @@ namespace Deneme123
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Deneme 1 2 3");
         }
     }
 }
