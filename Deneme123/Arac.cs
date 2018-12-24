@@ -41,6 +41,16 @@ namespace Deneme123
             set { _km = value; }
         }
 
+        
+        private int _motorGucu;
+        
+        public int MotorGucu
+        {
+            get { return _motorGucu; }
+            set { _motorGucu = value; }
+        }
+
+        
 
 
     }
