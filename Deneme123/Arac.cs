@@ -32,6 +32,16 @@ namespace Deneme123
             get { return  _renk; }
             set { string _renk = value; }
         }
+        private int _km;
         
+
+        public int Km
+        {
+            get { return _km; }
+            set { _km = value; }
+        }
+
+
+
     }
 }
