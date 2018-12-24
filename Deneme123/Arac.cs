@@ -26,6 +26,12 @@ namespace Deneme123
             get { return _model; }
             set { _model = value; }
         }
-
+        private string _renk;
+        public string Renk
+        {
+            get { return  _renk; }
+            set { string _renk = value; }
+        }
+        
     }
 }
